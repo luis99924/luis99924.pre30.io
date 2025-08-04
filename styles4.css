@@ -1,0 +1,46 @@
+body
+{
+    background-color: rgb(139, 139, 216);
+}
+header
+{
+
+height: 250%;
+background-color: blue ;
+border-radius: 8px;
+
+}
+h1
+{
+
+align-items: center;
+font-size: 250%;
+color: black;
+font-family:Times New Roman;
+text-align: center;
+
+}
+iframe
+{
+    width: 100%;
+    height: 400PX;
+    border: solid;
+}
+nav
+{
+   
+    height: 250%;
+    background-color: rgb(36, 176, 252);
+    font-size: 240%;
+    color: black;
+    font-family: Courier New;
+    font-style: oblique;
+    text-align: center;
+    border-radius: 8px;
+}
+nav:hover
+{
+    font-size: 260%;
+    font-family: Cambria;
+    transition: 0.6s;
+}

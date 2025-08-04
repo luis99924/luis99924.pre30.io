@@ -1,0 +1,25 @@
+body
+{
+    background-color: rgb(255, 255, 255);
+}
+img
+{
+    
+    width: 50%;
+    height: 350px;
+}
+h1
+{
+font-family: Times New Roman;
+font-size:30px;
+text-align: center;
+}
+h2
+{
+text-align:center;
+}
+footer
+{
+text-align: center;
+background-color: rgb(96, 96, 203);
+}
